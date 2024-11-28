@@ -2,6 +2,7 @@
 Fixing the Hostname Resolution Error
 
 1- hostname
+
 2- sudo nano /etc/hosts
 ==>
 add:
